@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Learning Lab
 
 This repository is a friendly collection of Python scripts and code samples covering a wide range of topics:
